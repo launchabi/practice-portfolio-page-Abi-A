@@ -1,0 +1,22 @@
+body {
+    background-color: lightblue;
+}
+
+table {
+  border-collapse: collapse; 
+  width: 50%;
+}
+
+table, th, td {
+  border: 4px solid #333333;
+}
+
+th, td {
+  padding: 8px;
+  text-align: center;
+}
+
+.statement {
+    font-weight: 700;
+    color: red;
+}
